@@ -1,0 +1,22 @@
+.footer-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px 50px;
+  justify-content: space-evenly;
+}
+.footer-text-container {
+  display: flex;
+  text-align: center;
+  padding-top: 50px;
+  font-size: 30px;
+}
+.footer-text-container p {
+  text-align: center;
+  font-size: 20px;
+  color: rgb(190, 190, 190);
+}
+.footer-text-container h3 {
+  font-size: 27px;
+  color: white;
+}
